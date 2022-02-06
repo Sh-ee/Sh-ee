@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sh-ee
+- 🌱 I’m currently learning JS
+- 🏚  I'm from Uruguay
